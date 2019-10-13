@@ -1,0 +1,7 @@
+version: "2"
+domain: fun.io
+repo: foobar
+resources:
+- group: foobar
+  version: v1
+  kind: Foo

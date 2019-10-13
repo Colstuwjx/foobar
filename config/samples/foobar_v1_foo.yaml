@@ -1,0 +1,7 @@
+apiVersion: foobar.fun.io/v1
+kind: Foo
+metadata:
+  name: foo-sample
+spec:
+  # Add fields here
+  foo: bar
